@@ -1,0 +1,19 @@
+{
+  "name": "making-myself-hapi",
+  "version": "1.0.0",
+  "description": "Learning hapi through https://github.com/hapijs/makemehapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robkorv/making-myself-hapi.git"
+  },
+  "author": "Robbert Korving <r.korving@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robkorv/making-myself-hapi/issues"
+  },
+  "homepage": "https://github.com/robkorv/making-myself-hapi"
+}
