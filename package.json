@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/robkorv/making-myself-hapi/issues"
   },
-  "homepage": "https://github.com/robkorv/making-myself-hapi"
+  "homepage": "https://github.com/robkorv/making-myself-hapi",
+  "dependencies": {
+    "hapi": "^6.11.1"
+  }
 }
