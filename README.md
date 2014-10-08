@@ -1,4 +1,4 @@
 making-myself-hapi
 ==================
 
-Learning hapi trough https://github.com/hapijs/makemehapi
+Learning hapi through https://github.com/hapijs/makemehapi
