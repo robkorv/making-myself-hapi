@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/robkorv/making-myself-hapi",
   "dependencies": {
+    "handlebars": "^2.0.0",
     "hapi": "^6.11.1"
   }
 }
